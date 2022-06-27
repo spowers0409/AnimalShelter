@@ -31,4 +31,4 @@ First step would be to log in to the database that one is trying to utilize. Thi
 <br>
 <br>
 <h3>Screenshots of working project</h3>
-![screenshots](AnimalShelter/final/ss1.png)
+![screenshots](ss1.png)
