@@ -31,4 +31,4 @@ First step would be to log in to the database that one is trying to utilize. Thi
 <br>
 <br>
 <h3>Screenshots of working project</h3>
-![screenshots](ss1.png)
+![ss1](https://user-images.githubusercontent.com/85845285/175936608-39e8e171-dbbb-4131-b5c6-cbf4bb2bd632.png)
