@@ -32,3 +32,9 @@ First step would be to log in to the database that one is trying to utilize. Thi
 <br>
 <h3>Screenshots of working project</h3>
 ![ss1](https://user-images.githubusercontent.com/85845285/175936608-39e8e171-dbbb-4131-b5c6-cbf4bb2bd632.png)
+![ss2](https://user-images.githubusercontent.com/85845285/175937175-28987072-e67f-441a-9dff-6c233fb8ed12.png)
+![ss3](https://user-images.githubusercontent.com/85845285/175937199-f7d785e1-1948-4269-91ce-ce7bea5630b2.png)
+![ss4](https://user-images.githubusercontent.com/85845285/175937209-8fbef616-fa28-492a-bf5f-176ee4495445.png)
+
+
+
