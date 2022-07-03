@@ -31,10 +31,14 @@ First step would be to log in to the database that one is trying to utilize. Thi
 <br>
 <br>
 <h3>Screenshots of working project</h3>
-![ss1](https://user-images.githubusercontent.com/85845285/175936608-39e8e171-dbbb-4131-b5c6-cbf4bb2bd632.png)
-![ss2](https://user-images.githubusercontent.com/85845285/175937175-28987072-e67f-441a-9dff-6c233fb8ed12.png)
-![ss3](https://user-images.githubusercontent.com/85845285/175937199-f7d785e1-1948-4269-91ce-ce7bea5630b2.png)
-![ss4](https://user-images.githubusercontent.com/85845285/175937209-8fbef616-fa28-492a-bf5f-176ee4495445.png)
+
+![ss1](https://user-images.githubusercontent.com/85845285/177026256-7d147df4-39c3-44e9-8274-4f603f6e5645.png)
+
+![ss2](https://user-images.githubusercontent.com/85845285/177026257-4a94fa71-34c8-44b9-b1b4-41ef43e3b8e0.png)
+
+![ss3](https://user-images.githubusercontent.com/85845285/177026259-d74ccf1a-ed38-4e8a-b265-273b87eb0815.png)
+
+![ss4](https://user-images.githubusercontent.com/85845285/177026261-ba50a5e8-70c0-4d16-8629-071112a6ee2b.png)
 
 
-
+![Grazioso Salvare Logo](https://user-images.githubusercontent.com/85845285/177026183-c0f616f0-8d7a-4cef-8482-9a779a040df3.png)
